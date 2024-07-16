@@ -4,7 +4,7 @@ import tn.esprit.rh.achat.entities.CategorieProduit;
 
 import java.util.List;
 
-// bonjour
+// bon
 
 public interface ICategorieProduitService {
 
